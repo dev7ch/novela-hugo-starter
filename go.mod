@@ -1,4 +1,4 @@
-module github.com/forestryio/novela-hugo-starter
+module github.com/dev7ch/novela-hugo-starter
 
 go 1.15
 
